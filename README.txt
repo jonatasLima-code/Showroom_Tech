@@ -22,9 +22,11 @@ Execução no PC:
 
 2- Pressionar Play
 
-3- Utilizar mouse para olhar os produtos
+3- Utilize WASD para se mover pela sala
 
-4- Ao focar no produto, o painel informativo aparece
+4- Segure o botão direito do mouse para mover sua visão pela sala
+
+5- Ao focar nos produtos, paineis informativos aparecem, mostrando especifições ou caracteristicas dos produtos
 
 Configuração para Meta Quest:
 
